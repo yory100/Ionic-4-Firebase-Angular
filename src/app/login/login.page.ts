@@ -17,6 +17,7 @@ export class LoginPage implements OnInit {
   ngOnInit() {
   }
 
+  // User authentification with FireBase
   async login() {
     const { userName, password } = this;
 
