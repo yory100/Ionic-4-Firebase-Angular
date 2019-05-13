@@ -1,5 +1,5 @@
 # Ionic-4-Firebase-Angular
 
-Start aplication
+Start application
 
 <code>ionic serve --lab</code>
